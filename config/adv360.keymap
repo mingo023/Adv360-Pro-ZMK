@@ -55,7 +55,7 @@
         app {
             bindings = <
 &trans  &trans         &trans         &trans         &trans  &trans         &trans                                      &trans  &trans  &trans  &trans  &trans  &trans         &trans
-&trans  &trans         &trans         &trans         &trans  &trans         &trans                                      &trans  &trans  &trans  &trans  &trans  &kp LS(LA(P))  &trans
+&trans  &trans         &trans         &trans         &trans  &kp LS(LA(T))  &trans                                      &trans  &trans  &trans  &trans  &trans  &kp LS(LA(P))  &trans
 &trans  &kp LA(LS(A))  &kp LS(LA(S))  &kp LS(LA(D))  &trans  &trans         &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &trans
 &trans  &trans         &trans         &kp LS(LA(C))  &trans  &kp LS(LA(B))                  &trans      &trans                  &trans  &trans  &trans  &trans  &trans         &trans
 &trans  &trans         &trans         &trans         &trans                 &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans         &trans
